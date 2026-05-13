@@ -7,13 +7,13 @@ assignees: ''
 
 ---
 
-[ ] This request is for the creation of a new article.
+- [ ] This request is for the creation of a new article.
 > Topic:
 Please describe what the article contents should cover:
 
 ---
 
-[ ] This request is for an update of content within an existing article.
+- [ ] This request is for an update of content within an existing article.
 > Name of article:
 > What is the issue with the article as it stands?
 
