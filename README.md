@@ -1,5 +1,7 @@
 # Security-Posture
-The purpose of this repository is to provide centralized updated access to fundemental security doctrine for users of all types. Whether it's for a grandma or a small business owner.
+The purpose of this repository is to provide centralized updated access to fundemental security doctrine for users of all types. Whether it's for a grandma or a small business owner for fraud prevention or a less-technical explanation of cybersecurity standards. Why a GitHub site and not a PDF or website? GitHub allows the userbase to see the active changes. Instead of having people see potentially stale data, develop mistrust because they can't see who wrote what, or not understand what happened between version 1 and 2, GitHub provides a form of transparency that isn't achievable with a simple website or PDF.
+
+If you have specific information that you would like to request to be made into a guide or resource, submit an issue on the issues tab. If you would like to contribute articles, read our [contributing guide](CONTRIBUTING.md) and submit a pull request or issue.
 
 > [Small Businesses and Governance](SmallBusinessTrust.md) - Designed to reflect on the most common operational downfalls of small businesses or businesses that had a poor security posture from the start, this small guide poses real-world scenarios and hypothetical questions to help generate the kind of thinking that successful small business owners should employ when interacting with information technology systems and cybersecurity matters.
 
