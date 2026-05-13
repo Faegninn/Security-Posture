@@ -1,6 +1,6 @@
 # When Trust Is Not a Safety Strategy
 
-## A Plain-Language Guide for Older Adults Protecting Themselves
+## A Plain-Language Guide for Older Adults Protecting Themselves (or for anyone, really)
 
 *For people who built a life on handshakes and good faith — and are now living in a world that takes advantage of both*
 
